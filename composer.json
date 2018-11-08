@@ -1,0 +1,12 @@
+{
+    "name": "vendor/name",
+    "authors": [
+        {
+            "name": "Vladimir Serebryanski",
+            "email": "vlad.serebsk@gmail.com"
+        }
+    ],
+    "require": {
+        "phpquery/phpquery": "*"
+    }
+}
